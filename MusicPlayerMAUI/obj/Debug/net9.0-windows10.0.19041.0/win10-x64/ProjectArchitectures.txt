@@ -1,0 +1,1 @@
+C:\Users\Rafi Arkan\MusicPlayerMAUI\MusicPlayerMAUI\MusicPlayerMAUI.csproj;x64
